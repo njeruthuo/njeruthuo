@@ -1,6 +1,9 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=njeruthuo&theme=onedark&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njeruthuo&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njeruthuo&theme=onedark&show_icons=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=njeruthuo)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @njeruthuo
 - 👀 I’m interested in writing frontend code in React, Material UI and tailwindcss.
 - 💞️ I’m looking to collaborate on any interesting project for fun or cash.
