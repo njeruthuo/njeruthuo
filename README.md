@@ -1,4 +1,4 @@
-Hey there. Welcome to my github. I believe I have a project that might interest you. You can find one by navigating my repositories.
+Hey there!
 
 <!---
 njeruthuo/njeruthuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
