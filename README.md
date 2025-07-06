@@ -1,8 +1,12 @@
 ## Julius Njeru
 
 **Tech Stack:**  
-- Django (Python)  
-- React (JavaScript)
+- Django (Python)
+- FastAPI (Python)
+- React (TypeScript)
+- React Native (TypeScript)
+- Embedded programming (C)
+- Docker
 
 **Hobbies / Interests:**  
 - Embedded devices  
@@ -10,10 +14,10 @@
 - Working with APIs  
 
 **Links:**  
-- 🌐 [Personal Website](https://frontend-portfolio-amber.vercel.app)  
+- 🌐 [Portfolio](https://frontend-portfolio-amber.vercel.app)  
 - 💼 [LinkedIn](https://linkedin.com/in/juliusnjeruthuo)  
 - 💻 [GitHub](https://github.com/njeruthuo)  
-- 🐦 [X (formerly Twitter)](https://x.com/njeru19_njeru)
+- 🐦 [Twitter](https://x.com/njeru19_njeru)
 
 ---
 
