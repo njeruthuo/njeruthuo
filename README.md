@@ -5,23 +5,16 @@
 - FastAPI (Python)
 - React (TypeScript)
 - React Native (TypeScript)
-- Embedded programming (C)
 - Docker
-
-**Hobbies / Interests:**  
-- Embedded devices  
-- Experimenting with C  
-- Working with APIs  
+- Go
 
 **Links:**  
 - 🌐 [Portfolio](https://frontend-portfolio-amber.vercel.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/juliusnjeruthuo)  
-- 💻 [GitHub](https://github.com/njeruthuo)  
-- 🐦 [Twitter](https://x.com/njeru19_njeru)
+- 💼 [LinkedIn](https://linkedin.com/in/juliusnjeruthuo)
 
 ---
 
-> If you need help with **Django, React, embedded systems, or integrating APIs** — or want to showcase your projects or profiles — just let me know!
+> If you need help with **Django, React, or integrating APIs** — or want to showcase your projects or profiles — just let me know!
 
 
 <!---
