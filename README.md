@@ -8,6 +8,7 @@
 - Docker
 - Go
 - Kotlin
+- Kubernetes
 
 **Links:**  
 - 🌐 [Portfolio](https://frontend-portfolio-amber.vercel.app)  
