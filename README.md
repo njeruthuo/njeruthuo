@@ -7,6 +7,7 @@
 - React Native (TypeScript)
 - Docker
 - Go
+- Kotlin
 
 **Links:**  
 - 🌐 [Portfolio](https://frontend-portfolio-amber.vercel.app)  
