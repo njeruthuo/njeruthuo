@@ -1,22 +1,12 @@
 ## Julius Njeru
 
-**Tech Stack:**  
-- Django (Python)
-- FastAPI (Python)
-- React (TypeScript)
-- React Native (TypeScript)
-- Docker
+All things web, mobile and infrastructure (cloud):
+- django
+- react
+- react native
+- kotlin
 - Go
-- Kotlin
 - Kubernetes
-
-**Links:**  
-- 🌐 [Portfolio](https://frontend-portfolio-amber.vercel.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/juliusnjeruthuo)
-
----
-
-> If you need help with **Django, React, or integrating APIs** — or want to showcase your projects or profiles — just let me know!
 
 
 <!---
