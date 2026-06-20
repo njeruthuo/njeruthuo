@@ -2,11 +2,13 @@
 
 All things web, mobile and infrastructure (cloud):
 - django
+- fastapi
 - react
 - react native
 - kotlin
 - Go
 - Kubernetes
+- Docker
 
 
 <!---
